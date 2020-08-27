@@ -59,7 +59,7 @@ public class TextView extends View {
 
         int widthSize = MeasureSpec.getSize(widthMeasureSpec);
         int heightSize = MeasureSpec.getSize(heightMeasureSpec);
-        
+        int aaaa = 4;
 
     }
 
