@@ -59,10 +59,8 @@ public class TextView extends View {
 
         int widthSize = MeasureSpec.getSize(widthMeasureSpec);
         int heightSize = MeasureSpec.getSize(heightMeasureSpec);
+        
 
-//        if (MeasureSpec.UNSPECIFIED){
-//
-//        }
     }
 
     /**
